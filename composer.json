@@ -1,0 +1,33 @@
+{
+    "name": "james.xue/laravel-collect",
+    "description": "User enshrine features for Laravel Application.",
+    "type": "library",
+    "keywords": ["laravel", "collect", "laravel-collect", "Collection", "store up", "enshrine"],
+    "support": {
+        "issues": "https://github.com/xiaoxuan6/laravel-collect/issues",
+        "source": "https://github.com/xiaoxuan6/laravel-collect"
+    },
+    "authors": [
+        {
+            "name": "james.xue",
+            "email": "1527736751@qq.com"
+        }
+    ],
+    "require": {
+        "laravel/framework": "^5.5||^6.0||^7.0||^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Vinhson\\LaravelCollect\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers":[
+                "Vinhson\\LaravelCollect\\LaravelCollectServiceProvider"
+            ]
+        }
+    },
+    "license": "MIT",
+    "minimum-stability": "dev"
+}
