@@ -46,7 +46,7 @@ class Good extends Model
 }
 ```
 ### Api
-[laravel-collect/api](https://github.com/xiaoxuan6/laravel-collect/tests/TestController.php)
+[laravel-collect/api](https://github.com/xiaoxuan6/laravel-collect/blob/master/tests/TestController.php)
 
 ### About 
 `xiaoxuan6/laravel-collect` specific configuration and use, refer to: [xiaoxuan6/laravel-collect](https://github.com/xiaoxuan6/laravel-collect)
